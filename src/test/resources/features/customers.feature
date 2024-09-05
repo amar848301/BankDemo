@@ -1,7 +1,7 @@
 Feature: Title of your feature
   I want to use this template for my feature file
 
-  @tag1
+  @test
   Scenario: Add new customer to the portal
     Given login into the application with manager id
     When create a single customer with given details
